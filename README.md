@@ -1,4 +1,4 @@
-# React, MobX & TypeScript
+#   React, MobX & TypeScript
 
 A bare minimum react-mobx-webpack-typescript boilerplate with TodoMVC example.
 
