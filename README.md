@@ -1,6 +1,6 @@
 # React, MobX & TypeScript
 
-A bare minimum react-mobx-webpack-typescript boilerplate with TodoMVC example.
+react-mobx-webpack-typescript boilerplate with TodoMVC example.
 
 Note that this project does not include **Server-Side Rendering**,  **Testing Frameworks** and other stuffs that makes the package unnecessarily complicated.
 
